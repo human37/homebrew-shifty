@@ -1,8 +1,8 @@
 class Shifty < Formula
   desc "Menu bar posture shifter for macOS"
   homepage "https://github.com/human37/shifty"
-  url "https://github.com/human37/shifty/archive/refs/tags/v0.0.3.tar.gz"
-  sha256 "1432de4a4a6345b5f56b0c4ab3ccb7ef0f1db14b3ae4eee09cd3a27ddbbd438f"
+  url "https://github.com/human37/shifty/archive/refs/tags/v0.0.4.tar.gz"
+  sha256 "9fce9fe8a19089635e51370d0df65fc0c8bfce29cc185440479dca10f14d4f55"
   head "https://github.com/human37/shifty.git", branch: "main"
 
   depends_on :macos
